@@ -9,12 +9,12 @@ In this applications, user's can use their command prompt line (GitBash for this
 ## Table of Contents
 
 - [Description](#description)
-- [installation](#installation)
+- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Usage](#contributing)
-- [Usage](#tests)
-- [Usage](#questions)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 
@@ -35,6 +35,8 @@ MIT
 ## Tests
 
 ![alt text](./assets/Challenge9.png)
+
+<li>Link to demo video:  https://drive.google.com/file/d/1s39CY0MXnTOu6mAZYj7e_0zBVtFYMhSa/view
 
 ## Questions
 For more information or if you are curious to view the source code, visit my GitHub profile: [diazgus411](https://github.com/diazgus411)
